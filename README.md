@@ -164,6 +164,6 @@ Everything has been completely fine until now, but how did I create the calculat
 
 ('7', 1, 0, '#CCCCCC', 'black')
 
-Finally, I created a function called "button_click" that would perform specific actions depending on which button the user would click, hence, I built a user-interactive GUI. After the mathematical expression is submitted by the user, it performs the mathematical expression submitted by the user, and afterward, it goes through all of the functions, to provide the correct answer. Creating, a PEMDAS Calculator.
+Finally, I created a function called "button_click" that would perform specific actions depending on which button the user would click, hence, I built a user-interactive GUI. After the mathematical expression is introduced by the user, it performs the mathematical expression submitted by the user, and afterward, it goes through all of the functions, to provide the correct answer. Creating, a PEMDAS Calculator.
 
 To conclude, I wanted to express that, even if this final project idea was not the most creative or exciting one that I had, I decided to create the calculator, mainly because I wanted to test myself and my programming skills, I wanted to challenge myself by creating something that has already been created, but that's also a challenging project to create, it took way more time and effort than any of the problem sets I was assigned to solve.
